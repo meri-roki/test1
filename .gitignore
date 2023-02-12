@@ -1,0 +1,36 @@
+*.doc
+fol2/
+# Created by https://www.toptal.com/developers/gitignore/api/monodevelop
+# Edit at https://www.toptal.com/developers/gitignore?templates=monodevelop
+
+### MonoDevelop ###
+#User Specific
+*.userprefs
+*.usertasks
+
+#Mono Project Files
+*.pidb
+*.resources
+test-results/
+
+# End of https://www.toptal.com/developers/gitignore/api/monodevelop
+# Created by https://www.toptal.com/developers/gitignore/api/react
+# Edit at https://www.toptal.com/developers/gitignore?templates=react
+
+### react ###
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
+
+# End
